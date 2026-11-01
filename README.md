@@ -1,3 +1,3 @@
 # 无题
 
-直接游玩：https://lengyifan.github.io/wuti/
+链接：https://lengyifan.github.io/wuti/
